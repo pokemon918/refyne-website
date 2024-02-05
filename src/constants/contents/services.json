@@ -1,0 +1,457 @@
+{
+    "SEO": {
+        "hero": {
+            "subtitle": "PRISVINDENDE",
+            "title": "Data- og marketingbureau",
+            "description": "Opnå enestående resultater med intelligent dataaktivering på platforme som Meta, Google og andre digitale kanaler."
+        },
+        "overview": {
+            "title": "Informed, strategic bets and the budget to act on them.",
+            "content": [
+                "Seer's Supernova cloud-based data platform drives superior analysis and insights mining.",
+                "Combined with our team of deep SMEs, we're able to start your engagement with momentum.",
+                "But knowing what to do is only effective if you can get the buy-in and resources to execute.",
+                "We'll help you with that too."
+            ]
+        },
+        "testimonial": [
+            {
+                "fullName": "Ashiey Right",
+                "title": "Product Designer",
+                "icon": "data:image/jpeg;base64,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",
+                "feedback": "Best what I saw on a market, people just don't relize that this guy is super pros. Go hunt them, while still available for yours!",
+                "avatar": "https://swiperjs.com/demos/images/nature-1.jpg"
+            },
+            {
+                "fullName": "Robinson Stacked",
+                "title": "Web Developer",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "This guy is web wizard, highly recommend him!",
+                "avatar": "https://swiperjs.com/demos/images/nature-2.jpg"
+            },
+            {
+                "fullName": "Anton Azarov",
+                "title": "Full Stack Engineer",
+                "icon": "data:image/jpeg;base64,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",
+                "feedback": "Truly the gem of the marketplace, most folks are oblivious to the fact that this seller is top-notch. Strike now and secure these deals while they're still up for grabs!",
+                "avatar": "https://swiperjs.com/demos/images/nature-3.jpg"
+            },
+            {
+                "fullName": "Naheed Kurji",
+                "title": "CEO & Co-Founder",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "The best-kept secret in the bazaar, many shoppers haven't caught on to how professional this vendor is. Pursue these offerings quickly before others catch wind!",
+                "avatar": "https://swiperjs.com/demos/images/nature-4.jpg"
+            },
+            {
+                "fullName": "Joseph Flucker",
+                "title": "Principal Engineer",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "What I witnessed in the marketplace was astonishing; it seems people haven’t recognized the sheer expertise of this merchant!",
+                "avatar": "https://swiperjs.com/demos/images/nature-5.jpg"
+            }
+        ],
+        "seo": [
+            {
+                "title": "Maintenance SEO",
+                "overview": "Built for Teams in need of maintaining SEO performance with minimal budget & resources.",
+                "content": "A lighter touch SEO partnership leveraging our efficiencies of scale on a confined budget.",
+                "subcontent": [
+                    "No more endless audits. Our proprietary technology pinpoints your highest yield tactical opportunities.",
+                    "From onsite to technical - focused on highest priority SEO pillars for your website.",
+                    "High confidence initiatives that will drive business impact."
+                ]
+            },
+            {
+                "title": "SEO Content Roadmap",
+                "overview": "Built for Teams who need an attainable list of SEO opportunities, prioritized by business impact.",
+                "content": "Roadmaps can be executed by your Seer team, in-house team, or even another agency. Your choice.",
+                "subcontent": [
+                    "Get executive buy-in on your SEO program by defining winnable market share.",
+                    "Prioritize better tactics, faster with Seer's technology cutting through massive amounts of data to surface deep insights.",
+                    "Leverage your roadmap to chip away at overtaking more and more of your competitor's market share."
+                ]
+            },
+            {
+                "title": "SEO Expansion Model",
+                "overview": "Built for Businesses who aim to be the SEO Market Share Leader in their space.",
+                "content": "Your end-all, be-all enterprise SEO strategy solution.",
+                "subcontent": [
+                    "Speak C-Suite with an outline of your total SEO market opportunity and what it will take to win it.",
+                    "From onsite to technical - we'll focus on every pillar of SEO and highlight what’s necessary to win.",
+                    "Data-informed strategies that help overcome organizational blockers holding you back."
+                ]
+            }
+        ],
+        "meetteam": [
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/mc5aon5lfaage5xsr2pf",
+                "role": "Creative leader",
+                "name": "Bob Brown",
+                "desc": "Glavi amet ntnisl libero molestie ante utfringila purus eros quis glavrid from dolor amet iquam lorem bibendum",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1476077457/slgutdcnkw1uj45udgfl.jpg",
+                "role": "Advisor",
+                "name": "Bob Brown",
+                "desc": "Glavi amet ntnisl libero molestie ante utfringila purus eros quis glavrid from dolor amet iquam lorem bibendum",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/rtw76cvitfypjpyp586j",
+                "role": "CEO, Co-Founder",
+                "name": "Mark Swarts",
+                "desc": "Mark is a Las Vegas native who began his insurance career in 1993 at a local insurance Agency.",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1471255957/dpvjgwjmsh5fucbxrghh.png",
+                "role": "Managing Partner",
+                "name": "Jay Markley",
+                "desc": "John D. Markley, Jr. has been a director of the company since November 2016. Since 2009, Mr. Markley has served as Managing Partner of Bear Creek Capital Management.",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            }
+        ],
+        "casestudy": [
+            {
+                "title": "SOONA",
+                "overview": "Tackling Rising Acquisition Costs with an Ad Creative Testing Framework",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-soona.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": true,
+                        "value": "1.4M",
+                        "description": "Increase in Impressions"
+                    },
+                    {
+                        "status": true,
+                        "value": "57%+",
+                        "description": "Increase in Total Sales"
+                    },
+                    {
+                        "status": false,
+                        "value": "$200+",
+                        "description": "CPA"
+                    }
+                ]
+            },
+            {
+                "title": "MULTIVERSE",
+                "overview": "Building an Inbound Pipeline in a New Region with Account-Based Marketing Principles",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-multiverse.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": true,
+                        "value": "189%",
+                        "description": "Increase in MQLs in 6 months"
+                    },
+                    {
+                        "status": false,
+                        "value": "22%",
+                        "description": "Increase in Conversions from Q4 → Q1*"
+                    }
+                ]
+            },
+            {
+                "title": "NOVA CREDIT",
+                "overview": "Overcoming Regulatory Roadblocks by Reimagining Paid Media Strategies for Fintech",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-nova-credit.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": false,
+                        "value": "1.4M",
+                        "description": "Increase in Impressions"
+                    },
+                    {
+                        "status": true,
+                        "value": "57%+",
+                        "description": "Increase in Total Sales"
+                    },
+                    {
+                        "status": true,
+                        "value": "$200+",
+                        "description": "CPA"
+                    },
+                    {
+                        "status": true,
+                        "value": "$200+",
+                        "description": "CPA"
+                    }
+                ]
+            }
+        ],
+        "faq": {
+            "description": "Everything you need to know about the product and billing. Can't find the answer you're looking for?",
+            "questions": [
+                {
+                    "title": "Is there a free trial available?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "Can I change my plan later?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "What is your cancellation policy?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "Can other info be added to an invoice?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "How does billing work?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "How do I change my account email?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                }
+            ]
+        }
+    },
+    "SEM": {
+        "hero": {
+            "subtitle": "SEM Subtitle",
+            "title": "SEM Title",
+            "description": "SEM Description"
+        },
+        "overview": {
+            "title": "SEM Overview Title",
+            "content": [
+                "SEM Overview Content 1",
+                "SEM Overview Content 2",
+                "SEM Overview Content 3",
+                "SEM Overview Content 4"
+            ]
+        },
+        "testimonial": [
+            {
+                "fullName": "Andrew Nagami",
+                "title": "Product Designer",
+                "icon": "data:image/jpeg;base64,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",
+                "feedback": "Best what I saw on a market, people just don't relize that this guy is super pros. Go hunt them, while still available for yours!",
+                "avatar": "https://swiperjs.com/demos/images/nature-1.jpg"
+            },
+            {
+                "fullName": "Robinson Kale",
+                "title": "Web Developer",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "This guy is web wizard, highly recommend him!",
+                "avatar": "https://swiperjs.com/demos/images/nature-2.jpg"
+            },
+            {
+                "fullName": "Kevin Lee",
+                "title": "Full Stack Engineer",
+                "icon": "data:image/jpeg;base64,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",
+                "feedback": "Truly the gem of the marketplace, most folks are oblivious to the fact that this seller is top-notch. Strike now and secure these deals while they're still up for grabs!",
+                "avatar": "https://swiperjs.com/demos/images/nature-3.jpg"
+            },
+            {
+                "fullName": "Naheed Andreas",
+                "title": "CEO & Co-Founder",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "The best-kept secret in the bazaar, many shoppers haven't caught on to how professional this vendor is. Pursue these offerings quickly before others catch wind!",
+                "avatar": "https://swiperjs.com/demos/images/nature-4.jpg"
+            },
+            {
+                "fullName": "Sebastian Flucker",
+                "title": "Principal Engineer",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAaVBMVEUAAAD///9ubm7s7Oxra2uLi4scHBy+vr76+vpzc3P19fXw8PDIyMixsbGcnJzS0tK4uLhhYWHm5uYLCwvf39+oqKg+Pj4xMTEsLCx5eXnY2NhEREQmJiYYGBhcXFxUVFSDg4NLS0uTk5NVZwVFAAAEe0lEQVR4nO2d23aqMBBAQ1WM3EWCAlLR///IA7raUxWSaCYrjGv2Q99oZ6/QXCYZwryBfMtQs82vGmz4sVi6jsaU5eJHJli5jsWcVXCT4bHrSCCI+VWmaFwHAkFTDDI8cR0HDAnvZQrfdRgw+EUv8yEN0zdNL3N0HQQUR4/lrmOAI2fCdQhwCNa5DgGOjpWuQ4CjZK3rEOBo2c51CHB8kApBEIQm7XHflAf/Awamw3eXiHUaZSLZnHCvgParrPB+4HVc4dVpVxH37gjXG9dBvUmTBd4TC5wpnVP6rDK8bKnrwN5guxh1GRrHdWgv0xRTLp5Xuw7uRQ7RtIvnrV2H9xqJzAVZkrqUuvQv2t51hC+QKWQwpXZ9hYvnRXiaplPKhJXrGLUZHy7vQJND9EemMY+ssbxnZ66WSc+uo9RkqyGDZp96pSETYFkLyId/ZDKVRsuEX66j1ORbQ6b4dh2lJs0n9WYsVMugGWeYdDFzA89Ms1K6LLB0Zj1KmejgOkR9LgoXXEtNxVQzQrXzJl/RIFrNDPjShTOeruzGXtI9Z66De5nz5HIzQ3iEqJx40xKELowdLyNztEWFqiP7z+6pcXiC+cjNUfwZcfILmtnlFGUnojTNkgq9CUEQBEEQBEEQM6BFunR9oOniqC6Koq775dIG83KpFEX4ZxXLg7AWlvZ8vjwuYbSMeCV75HHbYJOPZn7yi40Dx19TSbNbimZcRkb4R6atJKnsuAT/HwKX+d8yfiU5ZDggoDNA1mR2p1i5Y7oAzp3Yktl1ima5sQbdy7Yk0wqNvd+BogPsCezItI8n2KcJAVPadmQ0zrH9EggwGysyr7j0w2gGVUVhQ0bjdME9UGUH8DLLRPv/5Reg7UZwmVyMT2DkwGwEg8vw19tlAGTqCS7zJgXEXGAuMiCdwGxkQoCPFs1GBuLI0XxkAM4czUcGoIZiRjK8+yAZ8+Mt1mVeGEONv8JmU4bndZTFWVTnmkaX2coEqdje8i+7rUi1dCLDDIc1mfTuyMrhorPGCU/zlIkfZ47nWOMpw8mzJZnVc8fkq07q9gizNacdmW70b6kfNJzSWJGZKLprherB3GwSYEMmnRr8SlV2IDDrzmzITGcpK1Vq0Kw7syATS2YlqvJjs2o9eBkuq+vqFE1jNqGBl5GWQpU1LhkhzYQr3jOzaj14GflsUcgnaXOTka9+L/Ial5nJKKpUNvIeYGYyiiK15eSHYUiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZEiGZD5HZiP93aO3gshlAvmB0y/5gVOzWwhO0VpCPFZosJQ+ksk/vnKKZQ9HZoUNO1/K2BeI3ngE6GGCIAiCILT5oEF1x/DeWv6EzxrXIcDRsM51CHB0DOcF7KPEDN+N5ZMsmIf5K7x37D2G7kqsSZJepkB0I56MQ9HLcDRXL8sRvJfxcjT3e8o4594gg/DytRGG4vtBhpt+BGkGXK8vu16ZGXSuYzGlu5be/wP9S1TTxpaEKQAAAABJRU5ErkJggg==",
+                "feedback": "What I witnessed in the marketplace was astonishing; it seems people haven’t recognized the sheer expertise of this merchant!",
+                "avatar": "https://swiperjs.com/demos/images/nature-5.jpg"
+            }
+        ],
+        "seo": [
+            {
+                "title": "SEM SEO 1",
+                "overview": "Built for Teams in need of maintaining SEO performance with minimal budget & resources.",
+                "content": "A lighter touch SEO partnership leveraging our efficiencies of scale on a confined budget.",
+                "subcontent": [
+                    "No more endless audits. Our proprietary technology pinpoints your highest yield tactical opportunities.",
+                    "From onsite to technical - focused on highest priority SEO pillars for your website.",
+                    "High confidence initiatives that will drive business impact."
+                ]
+            },
+            {
+                "title": "SEM SEO 2",
+                "overview": "Built for Teams who need an attainable list of SEO opportunities, prioritized by business impact.",
+                "content": "Roadmaps can be executed by your Seer team, in-house team, or even another agency. Your choice.",
+                "subcontent": [
+                    "Get executive buy-in on your SEO program by defining winnable market share.",
+                    "Prioritize better tactics, faster with Seer's technology cutting through massive amounts of data to surface deep insights.",
+                    "Leverage your roadmap to chip away at overtaking more and more of your competitor's market share."
+                ]
+            },
+            {
+                "title": "SEM SEO 3",
+                "overview": "Built for Businesses who aim to be the SEO Market Share Leader in their space.",
+                "content": "Your end-all, be-all enterprise SEO strategy solution.",
+                "subcontent": [
+                    "Speak C-Suite with an outline of your total SEO market opportunity and what it will take to win it.",
+                    "From onsite to technical - we'll focus on every pillar of SEO and highlight what’s necessary to win.",
+                    "Data-informed strategies that help overcome organizational blockers holding you back."
+                ]
+            }
+        ],
+        "meetteam": [
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/mc5aon5lfaage5xsr2pf",
+                "role": "Creative leader",
+                "name": "Bob Lee",
+                "desc": "Glavi amet ntnisl libero molestie ante utfringila purus eros quis glavrid from dolor amet iquam lorem bibendum",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1476077457/slgutdcnkw1uj45udgfl.jpg",
+                "role": "Advisor",
+                "name": "Jordan Blake",
+                "desc": "Glavi amet ntnisl libero molestie ante utfringila purus eros quis glavrid from dolor amet iquam lorem bibendum",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/rtw76cvitfypjpyp586j",
+                "role": "CEO, Co-Founder",
+                "name": "Mark Vega",
+                "desc": "Mark is a Las Vegas native who began his insurance career in 1993 at a local insurance Agency.",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            },
+            {
+                "avatar": "https://images.crunchbase.com/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1471255957/dpvjgwjmsh5fucbxrghh.png",
+                "role": "Managing Partner",
+                "name": "Jay Chu",
+                "desc": "John D. Markley, Jr. has been a director of the company since November 2016. Since 2009, Mr. Markley has served as Managing Partner of Bear Creek Capital Management.",
+                "facebook": "#",
+                "twitter": "#",
+                "instagram": "#"
+            }
+        ],
+        "casestudy": [
+            {
+                "title": "MOON",
+                "overview": "Tackling Rising Acquisition Costs with an Ad Creative Testing Framework",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-soona.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": true,
+                        "value": "1.4M",
+                        "description": "Increase in Impressions"
+                    },
+                    {
+                        "status": true,
+                        "value": "57%+",
+                        "description": "Increase in Total Sales"
+                    },
+                    {
+                        "status": false,
+                        "value": "$200+",
+                        "description": "CPA"
+                    }
+                ]
+            },
+            {
+                "title": "METAVERSE",
+                "overview": "Building an Inbound Pipeline in a New Region with Account-Based Marketing Principles",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-multiverse.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": true,
+                        "value": "189%",
+                        "description": "Increase in MQLs in 6 months"
+                    },
+                    {
+                        "status": false,
+                        "value": "22%",
+                        "description": "Increase in Conversions from Q4 → Q1*"
+                    }
+                ]
+            },
+            {
+                "title": "NAVI CREDIT",
+                "overview": "Overcoming Regulatory Roadblocks by Reimagining Paid Media Strategies for Fintech",
+                "img": "https://tuffgrowth.com/wp-content/uploads/2023/10/tuff-2p0-2023-case-study-nova-credit.png",
+                "link": "/",
+                "detail": [
+                    {
+                        "status": false,
+                        "value": "1.4M",
+                        "description": "Increase in Impressions"
+                    },
+                    {
+                        "status": true,
+                        "value": "57%+",
+                        "description": "Increase in Total Sales"
+                    },
+                    {
+                        "status": true,
+                        "value": "$200+",
+                        "description": "CPA"
+                    },
+                    {
+                        "status": true,
+                        "value": "$200+",
+                        "description": "CPA"
+                    }
+                ]
+            }
+        ],
+        "faq": {
+            "description": "Everything you need to know about the product and billing. Can't find the answer you're looking for?",
+            "questions": [
+                {
+                    "title": "Is there a free trial available?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "Can I change my plan later?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "What is your cancellation policy?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "Can other info be added to an invoice?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "How does billing work?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                },
+                {
+                    "title": "How do I change my account email?",
+                    "content": "Yes, you can try us for free for 30 days. If you want, we'll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible."
+                }
+            ]
+        }
+    },
+    "Paid social": {},
+    "Tracking": {},
+    "Data analytics": {},
+    "Cloud": {},
+    "CDP": {},
+    "Dashboards": {},
+    "Data integration": {},
+    "Content marketing": {},
+    "CRO": {}
+}

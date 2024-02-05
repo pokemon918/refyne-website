@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: rgba(27, 27, 27, 0.5);
+    z-index: 9999;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #333;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk20';
+    src: url('/src/assets/fonts/SharpGroteskBook20.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk20';
+    src: url('/src/assets/fonts/SharpGroteskMedium20.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk20';
+    src: url('/src/assets/fonts/SharpGroteskSmBold20.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk20';
+    src: url('/src/assets/fonts/SharpGroteskBold20.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk20';
+    src: url('/src/assets/fonts/SharpGroteskBlack20.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk18';
+    src: url('/src/assets/fonts/SharpGroteskBook18.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SharpGrotesk18';
+    src: url('/src/assets/fonts/SharpGroteskBold18.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
